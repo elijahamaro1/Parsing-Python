@@ -2,3 +2,5 @@ This code worked in VSCode with "from pip._vendor" BUT if you have "requests" in
 (successfully received my outputs in my terminal)
 
 SoloProject3.py is the location of the code used to receive the requested outputs by the lab
+
+run "pip install requests" if needed in terminal
