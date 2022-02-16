@@ -1,4 +1,4 @@
-from pip._vendor import requests #imports library names requests from python standard libraries
+import requests #imports library names requests from python standard libraries
 
 URL = 'https://s3.amazonaws.com/tcmg476/http_access_log' #url used in lab
 
